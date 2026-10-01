@@ -18,3 +18,23 @@ Type is Archivo ExtraBold with IBM Plex Mono, outlined to paths so the SVGs need
 
 To change them: source/gen.py writes the SVGs, source/export.js renders the PNGs with Playwright.
 gen.py expects archivo800.ttf and plex500.ttf (Google Fonts, OFL) next to it.
+
+## Licence
+
+Copyright 2026 the UTS 500 Series team.
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+
+You may redistribute and modify this source and make products using it under
+the terms of the [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING
+OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN-OHL-S v2 for applicable conditions.
+
+Source location: https://github.com/UTS-500-Series/logos
+
+The full licence text is in [LICENSE](LICENSE).
+
+The lettering is drawn from Archivo and IBM Plex Mono, both under the SIL Open Font
+Licence; the SVGs carry them as outlines, not as font files.
